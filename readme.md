@@ -2,6 +2,7 @@
 
 Desarrollar una version web del modelo matematico "Game of Life" de Jhon Conway
 [(Juego de la vide)](https://es.wikipedia.org/wiki/Juego_de_la_vida) con las siguientes consideraciones:
+Try(https://faustoazzaretti.github.io/lppa-parcial-2/)
 
   * Desarrollar el juego para que funcione y se visualice correctamente en una computadora o un celular cumpliendo con las reglas originales descriptas en wikipedia.
   * El juego debe funcionar bien, voy a probar Oscillators y Spaceships para ver que las reglas estén implementadas.
